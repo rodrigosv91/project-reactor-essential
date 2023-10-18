@@ -1,1 +1,1 @@
-# Project Reactor Essentials By DevDojo Academy
+# Project Reactor Essentials
